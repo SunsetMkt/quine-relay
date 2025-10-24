@@ -552,11 +552,23 @@ Added: Pike
 
 ## for Ubuntu 24.10
 
-128 languages
+[128 languages](https://github.com/mame/quine-relay/tree/2ed61a62c9d31121b39e740c89107085c122f478)
 
 Removed: Dafny, Maxima
 
 Added: Execline, Squirrel
+
+## for Ubuntu 25.04
+
+[128 languages](https://github.com/mame/quine-relay/tree/b9c8056cad4589fe650163a3fd0cea4b3055fce4)
+
+## for Ubuntu 25.10
+
+[128 languages](https://github.com/mame/quine-relay/tree/5298413382ea707061e04aa077f99872d159a7b8)
+
+Removed: Lisaac
+
+Added: Swift
 
 ## License
 
